@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Aqui ficam as mensagens para ajudar a enterder como se deve utilizar o projecto.
