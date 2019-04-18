@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Projecto de teste de partilha de informação
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Só serve para aprender umas coisas novas
 
 ## Getting started
 
